@@ -1,0 +1,69 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Rasl | Digital Creator</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+  <!-- NAVBAR -->
+  <header class="navbar">
+    <h1 class="logo">RASL</h1>
+    <nav>
+      <a href="#about">About</a>
+      <a href="#services">Services</a>
+      <a href="#projects">Projects</a>
+      <a href="#contact">Contact</a>
+    </nav>
+  </header>
+
+  <!-- HERO -->
+  <section class="hero">
+    <h2>Building Digital Ideas Into Reality</h2>
+    <p>Web • Content • Branding • E-commerce</p>
+    <a href="#contact" class="btn">Work With Me</a>
+  </section>
+
+  <!-- ABOUT -->
+  <section id="about" class="section">
+    <h3>About Me</h3>
+    <p>
+      I’m Rasl — a digital creator focused on building modern websites,
+      online brands, and powerful digital experiences using clean design
+      and smart systems.
+    </p>
+  </section>
+
+  <!-- SERVICES -->
+  <section id="services" class="section dark">
+    <h3>What I Do</h3>
+    <div class="cards">
+      <div class="card">Website Design</div>
+      <div class="card">E-commerce Setup</div>
+      <div class="card">Brand Identity</div>
+      <div class="card">Content Strategy</div>
+    </div>
+  </section>
+
+  <!-- PROJECTS -->
+  <section id="projects" class="section">
+    <h3>Projects</h3>
+    <p>Coming soon — real work, real impact.</p>
+  </section>
+
+  <!-- CONTACT -->
+  <section id="contact" class="section dark">
+    <h3>Contact Me</h3>
+    <p>Email: <strong>jesterraslj@gmail.com</strong></p>
+    <p>WhatsApp: <strong>+266 56017414</strong></p>
+  </section>
+
+  <!-- FOOTER -->
+  <footer>
+    <p>© 2026 Rasl. All rights reserved.</p>
+  </footer>
+
+</body>
+</html>
